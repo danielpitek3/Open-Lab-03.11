@@ -11,6 +11,7 @@ namespace Open_Lab_03._11
             for (int i = str.Length-1; i > -1; i--)
 			{
                 stp += str[1];
+
 			}
             if(stp==str){
 
